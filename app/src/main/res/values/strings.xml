@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Malwapp-FYP</string>
     <string name="btn_scan">Scan</string>
-    <string name="lbl_lastscandatee">Never scan.</string>
+    <string name="btn_report">Scan Report</string>
+    <string name="lbl_lastscan">Last Scan</string>
+    <string name="lbl_lastscandate">No scan record.</string>
 
 </resources>
