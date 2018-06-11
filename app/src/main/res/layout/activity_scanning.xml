@@ -6,11 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".Scanning">
 
-    <!--<include
-        android:id="@+id/toolbar"
-        layout="@layout/toolbar"/>-->
-
-    <ProgressBar
+      <ProgressBar
         android:id="@+id/progressBar"
         style="?android:progressBarStyleHorizontal"
         android:layout_width="230dp"
